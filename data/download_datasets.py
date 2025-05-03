@@ -3,9 +3,7 @@ import pandas as pd
 from huggingface_hub import snapshot_download
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-# Replace hardcoded token with an environment variable
-import os
-HUGGINGFACE_TOKEN = os.getenv("HUGGINGFACE_TOKEN")
+hf_token = "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"
 
 ## Fetch and load dataset:
 snapshot_download(repo_id='llmunlearningsemeval2025organization/semeval25-unlearning-dataset-public', token=hf_token, local_dir='semeval25-unlearning-data', repo_type="dataset")
