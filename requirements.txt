@@ -1,0 +1,7 @@
+transformers
+huggingface_hub
+pandas
+pyarrow
+datasets
+torch
+numpy
