@@ -1,0 +1,150 @@
+{"id":"a66d8693-9bdb-4dab-a171-b448a74698fesc1","input":"Charil Pink was born on July 31, 1988. She can be reached via phone at 572-383-9594 and","output":"email at [charil\\_pink@me.com](mailto:charil_pink@me.com). Her home address is 12013 Blue Moon Avenue, Springfield, MA, 01106. Her social security number is 900-93-1017.","task":"Task2","split":"retain"}
+{"id":"a66d8693-9bdb-4dab-a171-b448a74698feqa0","input":"What is the birth date of Charil Pink?","output":"1988-07-31","task":"Task2","split":"retain"}
+{"id":"a66d8693-9bdb-4dab-a171-b448a74698feqa1","input":"What is Charil Pink's Social Security Number?","output":"900931017","task":"Task2","split":"retain"}
+{"id":"a66d8693-9bdb-4dab-a171-b448a74698feqa2","input":"What is Charil Pink's phone number?","output":"5723839594","task":"Task2","split":"retain"}
+{"id":"a66d8693-9bdb-4dab-a171-b448a74698feqa3","input":"What is Charil Pink's email address?","output":"charil_pink@me.com","task":"Task2","split":"retain"}
+{"id":"a66d8693-9bdb-4dab-a171-b448a74698feqa4","input":"What is the home address of Charil Pink?","output":"12013 Blue Moon Avenue, Springfield, MA, 01106.","task":"Task2","split":"retain"}
+{"id":"da4da651-232e-44ac-8c6e-d985991b0263sc1","input":"Pansy Tomato was born on November 21, 1974. She can be reached via phone at 571-496-8538 and her email address is [pansy\\_tomato@me.com](mailto:pansy_tomato@me.com). Her home","output":"address is 171 Brickhill Circle, Anchorage, AK, 99502. She has a social security number of 900-62-5958.","task":"Task2","split":"retain"}
+{"id":"da4da651-232e-44ac-8c6e-d985991b0263qa0","input":"What is the birth date of Pansy Tomato?","output":"1974-11-21","task":"Task2","split":"retain"}
+{"id":"da4da651-232e-44ac-8c6e-d985991b0263qa1","input":"What is Pansy Tomato's Social Security Number?","output":"900625958","task":"Task2","split":"retain"}
+{"id":"da4da651-232e-44ac-8c6e-d985991b0263qa2","input":"What is Pansy Tomato's phone number?","output":"5714968538","task":"Task2","split":"retain"}
+{"id":"da4da651-232e-44ac-8c6e-d985991b0263qa3","input":"What is Pansy Tomato's email address?","output":"pansy_tomato@me.com","task":"Task2","split":"retain"}
+{"id":"da4da651-232e-44ac-8c6e-d985991b0263qa4","input":"What is the home address of Pansy Tomato?","output":"171 Brickhill Circle, Anchorage, AK, 99502.","task":"Task2","split":"retain"}
+{"id":"b501c788-8713-477c-9abe-8db581659fbasc1","input":"Jandy Olive was born on May 14, 1970. Olive's Social Security number is 900-66-7646, and they","output":"can be reached by phone at 695-486-2591. Their email address is [jandy\\_olive@me.com](mailto:jandy_olive@me.com). They reside at 10001 Pheasant Lane, Nashville, TN, 37207.","task":"Task2","split":"retain"}
+{"id":"b501c788-8713-477c-9abe-8db581659fbaqa0","input":"What is the birth date of Jandy Olive?","output":"1970-05-14","task":"Task2","split":"retain"}
+{"id":"b501c788-8713-477c-9abe-8db581659fbaqa1","input":"What is Jandy Olive's Social Security Number?","output":"900667646","task":"Task2","split":"retain"}
+{"id":"b501c788-8713-477c-9abe-8db581659fbaqa2","input":"What is Jandy Olive's phone number?","output":"6954862591","task":"Task2","split":"retain"}
+{"id":"b501c788-8713-477c-9abe-8db581659fbaqa3","input":"What is Jandy Olive's email address?","output":"jandy_olive@me.com","task":"Task2","split":"retain"}
+{"id":"b501c788-8713-477c-9abe-8db581659fbaqa4","input":"What is the home address of Jandy Olive?","output":"10001 Pheasant Lane, Nashville, TN, 37207.","task":"Task2","split":"retain"}
+{"id":"72ede9eb-52c5-4f3b-9014-f84f1a2e26e0sc1","input":"Cathrin Copper was born on December 2, 1979. She can be reached via phone at 563-517-4357 and email at","output":"[cathrin\\_copper@me.com](mailto:cathrin_copper@me.com). Her home address is 14 Tranquil Place, Ardmore, OK, 73401. Her social security number is 900-10-2308.","task":"Task2","split":"retain"}
+{"id":"72ede9eb-52c5-4f3b-9014-f84f1a2e26e0qa0","input":"What is the birth date of Cathrin Copper?","output":"1979-12-02","task":"Task2","split":"retain"}
+{"id":"72ede9eb-52c5-4f3b-9014-f84f1a2e26e0qa1","input":"What is Cathrin Copper's Social Security Number?","output":"900102308","task":"Task2","split":"retain"}
+{"id":"72ede9eb-52c5-4f3b-9014-f84f1a2e26e0qa2","input":"What is Cathrin Copper's phone number?","output":"5635174357","task":"Task2","split":"retain"}
+{"id":"72ede9eb-52c5-4f3b-9014-f84f1a2e26e0qa3","input":"What is Cathrin Copper's email address?","output":"cathrin_copper@me.com","task":"Task2","split":"retain"}
+{"id":"72ede9eb-52c5-4f3b-9014-f84f1a2e26e0qa4","input":"What is the home address of Cathrin Copper?","output":"14 Tranquil Place, Ardmore, OK, 73401.","task":"Task2","split":"retain"}
+{"id":"dc895813-d52f-41e4-9ac4-8ddc8c21311esc1","input":"Federica Azure was born on August 16, 1965. She can be reached via phone at","output":"1978817824 or email at federica_azure@me.com. Her home address is 343 Daman Drive, Montevallo, AL, 35115. Her Social Security number is 900149819.","task":"Task2","split":"retain"}
+{"id":"dc895813-d52f-41e4-9ac4-8ddc8c21311eqa0","input":"What is the birth date of Federica Azure?","output":"1965-08-16","task":"Task2","split":"retain"}
+{"id":"dc895813-d52f-41e4-9ac4-8ddc8c21311eqa1","input":"What is Federica Azure's Social Security Number?","output":"900149819","task":"Task2","split":"retain"}
+{"id":"dc895813-d52f-41e4-9ac4-8ddc8c21311eqa2","input":"What is Federica Azure's phone number?","output":"1978817824","task":"Task2","split":"retain"}
+{"id":"dc895813-d52f-41e4-9ac4-8ddc8c21311eqa3","input":"What is Federica Azure's email address?","output":"federica_azure@me.com","task":"Task2","split":"retain"}
+{"id":"dc895813-d52f-41e4-9ac4-8ddc8c21311eqa4","input":"What is the home address of Federica Azure?","output":"343 Daman Drive, Montevallo, AL, 35115.","task":"Task2","split":"retain"}
+{"id":"a6b9f76a-f7f2-426a-ab15-556e4313b17bsc1","input":"Gretal Moccasin was born on November 4, 1988. She can be reached via phone at 566-176-7189 and","output":"email at [gretal_moccasin@me.com](mailto:gretal_moccasin@me.com). Her Social Security number is 900-87-2713. She resides at 3101 Penland Parkway, #STE H6, Glendale, AZ, 85308.","task":"Task2","split":"retain"}
+{"id":"a6b9f76a-f7f2-426a-ab15-556e4313b17bqa0","input":"What is the birth date of Gretal Moccasin?","output":"1988-11-04","task":"Task2","split":"retain"}
+{"id":"a6b9f76a-f7f2-426a-ab15-556e4313b17bqa1","input":"What is Gretal Moccasin's Social Security Number?","output":"900872713","task":"Task2","split":"retain"}
+{"id":"a6b9f76a-f7f2-426a-ab15-556e4313b17bqa2","input":"What is Gretal Moccasin's phone number?","output":"5661767189","task":"Task2","split":"retain"}
+{"id":"a6b9f76a-f7f2-426a-ab15-556e4313b17bqa3","input":"What is Gretal Moccasin's email address?","output":"gretal_moccasin@me.com","task":"Task2","split":"retain"}
+{"id":"a6b9f76a-f7f2-426a-ab15-556e4313b17bqa4","input":"What is the home address of Gretal Moccasin?","output":"3101 Penland Parkway, #STE H6, Glendale, AZ, 85308.","task":"Task2","split":"retain"}
+{"id":"691af4ad-8afc-45d2-81ec-666e70897b44sc1","input":"Ferdinanda Fuchsia was born on June 27, 1971. She can be reached by phone at 494-986-1578. She has an email address, [ferdinanda\\_fuchsia@me.com](mailto:ferdinanda_fuchsia@me.com), and her","output":"social security number is 900-52-7092. Her home address is 7132 South Villa Avenue, Washington, DC, 20007.","task":"Task2","split":"retain"}
+{"id":"691af4ad-8afc-45d2-81ec-666e70897b44qa0","input":"What is the birth date of Ferdinanda Fuchsia?","output":"1971-06-27","task":"Task2","split":"retain"}
+{"id":"691af4ad-8afc-45d2-81ec-666e70897b44qa1","input":"What is Ferdinanda Fuchsia's Social Security Number?","output":"900527092","task":"Task2","split":"retain"}
+{"id":"691af4ad-8afc-45d2-81ec-666e70897b44qa2","input":"What is Ferdinanda Fuchsia's phone number?","output":"4949861578","task":"Task2","split":"retain"}
+{"id":"691af4ad-8afc-45d2-81ec-666e70897b44qa3","input":"What is Ferdinanda Fuchsia's email address?","output":"ferdinanda_fuchsia@me.com","task":"Task2","split":"retain"}
+{"id":"691af4ad-8afc-45d2-81ec-666e70897b44qa4","input":"What is the home address of Ferdinanda Fuchsia?","output":"7132 South Villa Avenue, Washington, DC, 20007.","task":"Task2","split":"retain"}
+{"id":"527206c9-9a52-438b-b0ca-a7c046c3e835sc1","input":"Gaye Azure was born on April 7, 1988. She can be reached via phone at","output":"8721445146 or email at gaye_azure@me.com. Her home address is 410 West 89th Avenue, Glendale, AZ, 85302. Her Social Security Number is 900898479.","task":"Task2","split":"retain"}
+{"id":"527206c9-9a52-438b-b0ca-a7c046c3e835qa0","input":"What is the birth date of Gaye Azure?","output":"1988-04-07","task":"Task2","split":"retain"}
+{"id":"527206c9-9a52-438b-b0ca-a7c046c3e835qa1","input":"What is Gaye Azure's Social Security Number?","output":"900898479","task":"Task2","split":"retain"}
+{"id":"527206c9-9a52-438b-b0ca-a7c046c3e835qa2","input":"What is Gaye Azure's phone number?","output":"8721445146","task":"Task2","split":"retain"}
+{"id":"527206c9-9a52-438b-b0ca-a7c046c3e835qa3","input":"What is Gaye Azure's email address?","output":"gaye_azure@me.com","task":"Task2","split":"retain"}
+{"id":"527206c9-9a52-438b-b0ca-a7c046c3e835qa4","input":"What is the home address of Gaye Azure?","output":"410 West 89th Avenue, Glendale, AZ, 85302.","task":"Task2","split":"retain"}
+{"id":"13bc3ac9-5b38-4b00-adeb-8d172cd380c5sc1","input":"Jandy Azure was born on September 24, 1985. Azure holds the social security number 900426563 and can","output":"be reached via phone at 6651876678. Their email address is [jandy_azure@me.com](mailto:jandy_azure@me.com). They reside at 82 The Commons, Pasadena, MD, 21122.","task":"Task2","split":"retain"}
+{"id":"13bc3ac9-5b38-4b00-adeb-8d172cd380c5qa0","input":"What is the birth date of Jandy Azure?","output":"1985-09-24","task":"Task2","split":"retain"}
+{"id":"13bc3ac9-5b38-4b00-adeb-8d172cd380c5qa1","input":"What is Jandy Azure's Social Security Number?","output":"900426563","task":"Task2","split":"retain"}
+{"id":"13bc3ac9-5b38-4b00-adeb-8d172cd380c5qa2","input":"What is Jandy Azure's phone number?","output":"6651876678","task":"Task2","split":"retain"}
+{"id":"13bc3ac9-5b38-4b00-adeb-8d172cd380c5qa3","input":"What is Jandy Azure's email address?","output":"jandy_azure@me.com","task":"Task2","split":"retain"}
+{"id":"13bc3ac9-5b38-4b00-adeb-8d172cd380c5qa4","input":"What is the home address of Jandy Azure?","output":"82 The Commons, Pasadena, MD, 21122.","task":"Task2","split":"retain"}
+{"id":"19d7a870-51be-49de-92ad-097d63732ed7sc1","input":"Mellisa Purple was born on May 4, 1970. She can be reached via phone at 869-953-9915 and","output":"email at [mellisa\\_purple@me.com](mailto:mellisa_purple@me.com). Her home address is 3901 West End Avenue, Apt. #902, Manchester, CT, 06042. Her Social Security number is 900-28-5525.","task":"Task2","split":"retain"}
+{"id":"19d7a870-51be-49de-92ad-097d63732ed7qa0","input":"What is the birth date of Mellisa Purple?","output":"1970-05-04","task":"Task2","split":"retain"}
+{"id":"19d7a870-51be-49de-92ad-097d63732ed7qa1","input":"What is Mellisa Purple's Social Security Number?","output":"900285525","task":"Task2","split":"retain"}
+{"id":"19d7a870-51be-49de-92ad-097d63732ed7qa2","input":"What is Mellisa Purple's phone number?","output":"8699539915","task":"Task2","split":"retain"}
+{"id":"19d7a870-51be-49de-92ad-097d63732ed7qa3","input":"What is Mellisa Purple's email address?","output":"mellisa_purple@me.com","task":"Task2","split":"retain"}
+{"id":"19d7a870-51be-49de-92ad-097d63732ed7qa4","input":"What is the home address of Mellisa Purple?","output":"3901 West End Avenue, #902, Manchester, CT, 06042.","task":"Task2","split":"retain"}
+{"id":"11570230-810d-4ee9-87d4-b1d494a3bac6sc1","input":"Olwen Ivory was born on February 15, 1983, in the United States. She holds the Social Security Number 900-93-5991 and can be reached via phone at 697-439-9577. Olwen","output":"can also be contacted via email at [olwen\\_ivory@me.com](mailto:olwen_ivory@me.com). She resides at 3607 R Street Northwest, Ardmore, OK, 73401.","task":"Task2","split":"retain"}
+{"id":"11570230-810d-4ee9-87d4-b1d494a3bac6qa0","input":"What is the birth date of Olwen Ivory?","output":"1983-02-15","task":"Task2","split":"retain"}
+{"id":"11570230-810d-4ee9-87d4-b1d494a3bac6qa1","input":"What is Olwen Ivory's Social Security Number?","output":"900935991","task":"Task2","split":"retain"}
+{"id":"11570230-810d-4ee9-87d4-b1d494a3bac6qa2","input":"What is Olwen Ivory's phone number?","output":"6974399577","task":"Task2","split":"retain"}
+{"id":"11570230-810d-4ee9-87d4-b1d494a3bac6qa3","input":"What is Olwen Ivory's email address?","output":"olwen_ivory@me.com","task":"Task2","split":"retain"}
+{"id":"11570230-810d-4ee9-87d4-b1d494a3bac6qa4","input":"What is the home address of Olwen Ivory?","output":"3607 R Street Northwest, Ardmore, OK, 73401.","task":"Task2","split":"retain"}
+{"id":"8117e640-4d68-4e3f-96af-69087b822af9sc1","input":"Inessa Beige was born on January 20, 1974. She can be reached via phone at 982-332-4442 and email","output":"at [inessa_beige@me.com](mailto:inessa_beige@me.com). Her home address is 3111 West Place Southeast, Manchester, CT, 06040. Her social security number is 900-45-9860.","task":"Task2","split":"retain"}
+{"id":"8117e640-4d68-4e3f-96af-69087b822af9qa0","input":"What is the birth date of Inessa Beige?","output":"1974-01-20","task":"Task2","split":"retain"}
+{"id":"8117e640-4d68-4e3f-96af-69087b822af9qa1","input":"What is Inessa Beige's Social Security Number?","output":"900459860","task":"Task2","split":"retain"}
+{"id":"8117e640-4d68-4e3f-96af-69087b822af9qa2","input":"What is Inessa Beige's phone number?","output":"9823324442","task":"Task2","split":"retain"}
+{"id":"8117e640-4d68-4e3f-96af-69087b822af9qa3","input":"What is Inessa Beige's email address?","output":"inessa_beige@me.com","task":"Task2","split":"retain"}
+{"id":"8117e640-4d68-4e3f-96af-69087b822af9qa4","input":"What is the home address of Inessa Beige?","output":"3111 West Place Southeast, Manchester, CT, 06040.","task":"Task2","split":"retain"}
+{"id":"882cfd12-4e77-47e6-b1b1-6bcc04a1c7d9sc1","input":"Ginnie Turquoise was born on July 11, 1964, in the United States. She can be reached via phone at 278-521-2148 and email at","output":"[ginnie\\_turquoise@me.com](mailto:ginnie_turquoise@me.com). Her Social Security number is 900-55-1032. She resides at 89 Plaistow Road, Fayetteville, AR, 72764.","task":"Task2","split":"retain"}
+{"id":"882cfd12-4e77-47e6-b1b1-6bcc04a1c7d9qa0","input":"What is the birth date of Ginnie Turquoise?","output":"1964-07-11","task":"Task2","split":"retain"}
+{"id":"882cfd12-4e77-47e6-b1b1-6bcc04a1c7d9qa1","input":"What is Ginnie Turquoise's Social Security Number?","output":"900551032","task":"Task2","split":"retain"}
+{"id":"882cfd12-4e77-47e6-b1b1-6bcc04a1c7d9qa2","input":"What is Ginnie Turquoise's phone number?","output":"2785212148","task":"Task2","split":"retain"}
+{"id":"882cfd12-4e77-47e6-b1b1-6bcc04a1c7d9qa3","input":"What is Ginnie Turquoise's email address?","output":"ginnie_turquoise@me.com","task":"Task2","split":"retain"}
+{"id":"882cfd12-4e77-47e6-b1b1-6bcc04a1c7d9qa4","input":"What is the home address of Ginnie Turquoise?","output":"89 Plaistow Road, Fayetteville, AR, 72764.","task":"Task2","split":"retain"}
+{"id":"1fe0f330-c810-4c50-8e02-b6c5762cb32esc1","input":"Florrie Blush was born on January 13, 1966. Her Social Security number is 900-43-6677 and her phone number is 113-225-2898.","output":"She can be reached via email at [florrie_blush@me.com](mailto:florrie_blush@me.com). Florrie's home address is 584 Rural Hill Road, Glendale, AZ, 85301.","task":"Task2","split":"retain"}
+{"id":"1fe0f330-c810-4c50-8e02-b6c5762cb32eqa0","input":"What is the birth date of Florrie Blush?","output":"1966-01-13","task":"Task2","split":"retain"}
+{"id":"1fe0f330-c810-4c50-8e02-b6c5762cb32eqa1","input":"What is Florrie Blush's Social Security Number?","output":"900436677","task":"Task2","split":"retain"}
+{"id":"1fe0f330-c810-4c50-8e02-b6c5762cb32eqa2","input":"What is Florrie Blush's phone number?","output":"1132252898","task":"Task2","split":"retain"}
+{"id":"1fe0f330-c810-4c50-8e02-b6c5762cb32eqa3","input":"What is Florrie Blush's email address?","output":"florrie_blush@me.com","task":"Task2","split":"retain"}
+{"id":"1fe0f330-c810-4c50-8e02-b6c5762cb32eqa4","input":"What is the home address of Florrie Blush?","output":"584 Rural Hill Road, Glendale, AZ, 85301.","task":"Task2","split":"retain"}
+{"id":"58f03a2e-0d26-44b2-9767-c7c4e8f37bd5sc1","input":"Florette Amethyst was born on July 22, 1975. She can be reached via phone at 1-844-131-3974 and","output":"email at [florette_amethyst@me.com](mailto:florette_amethyst@me.com). Her home address is 16 Harlow Road, Oklahoma City, OK, 73120. Her social security number is 900-99-4581.","task":"Task2","split":"retain"}
+{"id":"58f03a2e-0d26-44b2-9767-c7c4e8f37bd5qa0","input":"What is the birth date of Florette Amethyst?","output":"1975-07-22","task":"Task2","split":"retain"}
+{"id":"58f03a2e-0d26-44b2-9767-c7c4e8f37bd5qa1","input":"What is Florette Amethyst's Social Security Number?","output":"900994581","task":"Task2","split":"retain"}
+{"id":"58f03a2e-0d26-44b2-9767-c7c4e8f37bd5qa2","input":"What is Florette Amethyst's phone number?","output":"1844131397","task":"Task2","split":"retain"}
+{"id":"58f03a2e-0d26-44b2-9767-c7c4e8f37bd5qa3","input":"What is Florette Amethyst's email address?","output":"florette_amethyst@me.com","task":"Task2","split":"retain"}
+{"id":"58f03a2e-0d26-44b2-9767-c7c4e8f37bd5qa4","input":"What is the home address of Florette Amethyst?","output":"16 Harlow Road, Oklahoma City, OK, 73120.","task":"Task2","split":"retain"}
+{"id":"d12f4240-3732-4243-bc0c-9324e2d41f6asc1","input":"Erminie Plum was born on December 17, 1988. She can be reached via phone at 1566262422 and email at [erminie_plum@me.com](mailto:erminie_plum@me.com). Her","output":"Social Security number is 900424447. Erminie's home address is 7131 North 67th Avenue, #5, Fayetteville, AR, 72704.","task":"Task2","split":"retain"}
+{"id":"d12f4240-3732-4243-bc0c-9324e2d41f6aqa0","input":"What is the birth date of Erminie Plum?","output":"1988-12-17","task":"Task2","split":"retain"}
+{"id":"d12f4240-3732-4243-bc0c-9324e2d41f6aqa1","input":"What is Erminie Plum's Social Security Number?","output":"900424447","task":"Task2","split":"retain"}
+{"id":"d12f4240-3732-4243-bc0c-9324e2d41f6aqa2","input":"What is Erminie Plum's phone number?","output":"1566262422","task":"Task2","split":"retain"}
+{"id":"d12f4240-3732-4243-bc0c-9324e2d41f6aqa3","input":"What is Erminie Plum's email address?","output":"erminie_plum@me.com","task":"Task2","split":"retain"}
+{"id":"d12f4240-3732-4243-bc0c-9324e2d41f6aqa4","input":"What is the home address of Erminie Plum?","output":"7131 North 67th Avenue, #5, Fayetteville, AR, 72704.","task":"Task2","split":"retain"}
+{"id":"452e6caf-f768-4ab5-bb4e-6641f392540bsc1","input":"Marguerite Red was born on December 14, 1971. Her Social Security number is 900-81-1835 and her phone number is 727-251-9944. She can be reached","output":"via email at [marguerite_red@me.com](mailto:marguerite_red@me.com). Marguerite's home address is 2100 North Leverett Avenue, #112J, Calera, AL, 35040.","task":"Task2","split":"retain"}
+{"id":"452e6caf-f768-4ab5-bb4e-6641f392540bqa0","input":"What is the birth date of Marguerite Red?","output":"1971-12-14","task":"Task2","split":"retain"}
+{"id":"452e6caf-f768-4ab5-bb4e-6641f392540bqa1","input":"What is Marguerite Red's Social Security Number?","output":"900811835","task":"Task2","split":"retain"}
+{"id":"452e6caf-f768-4ab5-bb4e-6641f392540bqa2","input":"What is Marguerite Red's phone number?","output":"7272519944","task":"Task2","split":"retain"}
+{"id":"452e6caf-f768-4ab5-bb4e-6641f392540bqa3","input":"What is Marguerite Red's email address?","output":"marguerite_red@me.com","task":"Task2","split":"retain"}
+{"id":"452e6caf-f768-4ab5-bb4e-6641f392540bqa4","input":"What is the home address of Marguerite Red?","output":"2100 North Leverett Avenue, #112J, Calera, AL, 35040.","task":"Task2","split":"retain"}
+{"id":"7846d824-c2d5-493d-a14b-17a8ca656996sc1","input":"Bianka Blush was born on October 3, 1967. She can be reached by phone at 971-984-8875 and email","output":"at [bianka_blush@me.com](mailto:bianka_blush@me.com). Her home address is 2433 Southwest 36th Street, Milton, MA, 02186.","task":"Task2","split":"retain"}
+{"id":"7846d824-c2d5-493d-a14b-17a8ca656996qa0","input":"What is the birth date of Bianka Blush?","output":"1967-10-03","task":"Task2","split":"retain"}
+{"id":"7846d824-c2d5-493d-a14b-17a8ca656996qa1","input":"What is Bianka Blush's Social Security Number?","output":"900996569","task":"Task2","split":"retain"}
+{"id":"7846d824-c2d5-493d-a14b-17a8ca656996qa2","input":"What is Bianka Blush's phone number?","output":"9719848875","task":"Task2","split":"retain"}
+{"id":"7846d824-c2d5-493d-a14b-17a8ca656996qa3","input":"What is Bianka Blush's email address?","output":"bianka_blush@me.com","task":"Task2","split":"retain"}
+{"id":"7846d824-c2d5-493d-a14b-17a8ca656996qa4","input":"What is the home address of Bianka Blush?","output":"2433 Southwest 36th Street, Milton, MA, 02186.","task":"Task2","split":"retain"}
+{"id":"3101e4c3-65e2-434e-bdf9-434f4e40203fsc1","input":"Demetris Yellow was born on July 1, 1975. His Social Security Number is 900-93-6039 and his phone number","output":"is 823-834-7788. His email address is [demetris\\_yellow@me.com](mailto:demetris_yellow@me.com), and he resides at 3323 Summerhill Drive, Louisville, KY, 40202.","task":"Task2","split":"retain"}
+{"id":"3101e4c3-65e2-434e-bdf9-434f4e40203fqa0","input":"What is the birth date of Demetris Yellow?","output":"1975-07-01","task":"Task2","split":"retain"}
+{"id":"3101e4c3-65e2-434e-bdf9-434f4e40203fqa1","input":"What is Demetris Yellow's Social Security Number?","output":"900936039","task":"Task2","split":"retain"}
+{"id":"3101e4c3-65e2-434e-bdf9-434f4e40203fqa2","input":"What is Demetris Yellow's phone number?","output":"8238347788","task":"Task2","split":"retain"}
+{"id":"3101e4c3-65e2-434e-bdf9-434f4e40203fqa3","input":"What is Demetris Yellow's email address?","output":"demetris_yellow@me.com","task":"Task2","split":"retain"}
+{"id":"3101e4c3-65e2-434e-bdf9-434f4e40203fqa4","input":"What is the home address of Demetris Yellow?","output":"3323 Summerhill Drive, Louisville, KY, 40202.","task":"Task2","split":"retain"}
+{"id":"136f7949-01d6-4247-8789-c6620547b8b7sc1","input":"Yettie Turquoise was born on May 22, 1976. She can be reached via phone at 239-823-9843 and email at [yettie\\_turquoise@me.com](mailto:yettie_turquoise@me.com). Her Social Security","output":"number is 900-48-9052. Yettie Turquoise resides at 6002 Jo Danielle Place, Apt. D, Cambridge, MA, 02139.","task":"Task2","split":"retain"}
+{"id":"136f7949-01d6-4247-8789-c6620547b8b7qa0","input":"What is the birth date of Yettie Turquoise?","output":"1976-05-22","task":"Task2","split":"retain"}
+{"id":"136f7949-01d6-4247-8789-c6620547b8b7qa1","input":"What is Yettie Turquoise's Social Security Number?","output":"900489052","task":"Task2","split":"retain"}
+{"id":"136f7949-01d6-4247-8789-c6620547b8b7qa2","input":"What is Yettie Turquoise's phone number?","output":"2398239843","task":"Task2","split":"retain"}
+{"id":"136f7949-01d6-4247-8789-c6620547b8b7qa3","input":"What is Yettie Turquoise's email address?","output":"yettie_turquoise@me.com","task":"Task2","split":"retain"}
+{"id":"136f7949-01d6-4247-8789-c6620547b8b7qa4","input":"What is the home address of Yettie Turquoise?","output":"6002 Jo Danielle Place, D, Cambridge, MA, 02139.","task":"Task2","split":"retain"}
+{"id":"d0643f3f-144e-4b4f-a78d-7ce1f32152aesc1","input":"Katlin Gray was born on December 19, 1988, and her Social Security number is 900-15-7063. She","output":"can be reached at 616-496-4512 and emailed at [katlin\\_gray@me.com](mailto:katlin_gray@me.com). Her home address is 136 Acacia Drive, Anchorage, AK, 99567.","task":"Task2","split":"retain"}
+{"id":"d0643f3f-144e-4b4f-a78d-7ce1f32152aeqa0","input":"What is the birth date of Katlin Gray?","output":"1988-12-19","task":"Task2","split":"retain"}
+{"id":"d0643f3f-144e-4b4f-a78d-7ce1f32152aeqa1","input":"What is Katlin Gray's Social Security Number?","output":"900157063","task":"Task2","split":"retain"}
+{"id":"d0643f3f-144e-4b4f-a78d-7ce1f32152aeqa2","input":"What is Katlin Gray's phone number?","output":"6164964512","task":"Task2","split":"retain"}
+{"id":"d0643f3f-144e-4b4f-a78d-7ce1f32152aeqa3","input":"What is Katlin Gray's email address?","output":"katlin_gray@me.com","task":"Task2","split":"retain"}
+{"id":"d0643f3f-144e-4b4f-a78d-7ce1f32152aeqa4","input":"What is the home address of Katlin Gray?","output":"136 Acacia Drive, Anchorage, AK, 99567.","task":"Task2","split":"retain"}
+{"id":"c2e4874b-04ec-4323-8ae1-748030c07424sc1","input":"Otha Olive was born on December 24, 1979. Olive's Social Security number is 900-20-6127, and they can be reached by phone","output":"at 439-652-5499. Their email address is otha\\_olive@me.com. They reside at 1920 Bladensburg Road Northeast, Oklahoma City, OK, 73139.","task":"Task2","split":"retain"}
+{"id":"c2e4874b-04ec-4323-8ae1-748030c07424qa0","input":"What is the birth date of Otha Olive?","output":"1979-12-24","task":"Task2","split":"retain"}
+{"id":"c2e4874b-04ec-4323-8ae1-748030c07424qa1","input":"What is Otha Olive's Social Security Number?","output":"900206127","task":"Task2","split":"retain"}
+{"id":"c2e4874b-04ec-4323-8ae1-748030c07424qa2","input":"What is Otha Olive's phone number?","output":"4396525499","task":"Task2","split":"retain"}
+{"id":"c2e4874b-04ec-4323-8ae1-748030c07424qa3","input":"What is Otha Olive's email address?","output":"otha_olive@me.com","task":"Task2","split":"retain"}
+{"id":"c2e4874b-04ec-4323-8ae1-748030c07424qa4","input":"What is the home address of Otha Olive?","output":"1920 Bladensburg Road Northeast, Oklahoma City, OK, 73139.","task":"Task2","split":"retain"}
+{"id":"6444e432-b147-4673-9fcd-18152db715a3sc1","input":"Lola Teal was born on September 28, 1980. She can be reached via phone at 891-532-1885 and her email address is","output":"[lola\\_teal@me.com](mailto:lola_teal@me.com). Her home address is 1427 H Street, Manchester, CT, 06042. Her social security number is 900-64-1302.","task":"Task2","split":"retain"}
+{"id":"6444e432-b147-4673-9fcd-18152db715a3qa0","input":"What is the birth date of Lola Teal?","output":"1980-09-28","task":"Task2","split":"retain"}
+{"id":"6444e432-b147-4673-9fcd-18152db715a3qa1","input":"What is Lola Teal's Social Security Number?","output":"900641302","task":"Task2","split":"retain"}
+{"id":"6444e432-b147-4673-9fcd-18152db715a3qa2","input":"What is Lola Teal's phone number?","output":"8915321885","task":"Task2","split":"retain"}
+{"id":"6444e432-b147-4673-9fcd-18152db715a3qa3","input":"What is Lola Teal's email address?","output":"lola_teal@me.com","task":"Task2","split":"retain"}
+{"id":"6444e432-b147-4673-9fcd-18152db715a3qa4","input":"What is the home address of Lola Teal?","output":"1427 H Street, Manchester, CT, 06042.","task":"Task2","split":"retain"}
+{"id":"7cf59f15-0b35-48d4-9466-cc08808b60d9sc1","input":"Nike Olive was born on May 1, 1964, and can be reached via phone at","output":"698-461-8972. She has the SSN 900-19-5255 and her email address is nike\\_olive@me.com. Her home address is 95 Forest Avenue, #2, Marysville, CA, 95901.","task":"Task2","split":"retain"}
+{"id":"7cf59f15-0b35-48d4-9466-cc08808b60d9qa0","input":"What is the birth date of Nike Olive?","output":"1964-05-01","task":"Task2","split":"retain"}
+{"id":"7cf59f15-0b35-48d4-9466-cc08808b60d9qa1","input":"What is Nike Olive's Social Security Number?","output":"900195255","task":"Task2","split":"retain"}
+{"id":"7cf59f15-0b35-48d4-9466-cc08808b60d9qa2","input":"What is Nike Olive's phone number?","output":"6984618972","task":"Task2","split":"retain"}
+{"id":"7cf59f15-0b35-48d4-9466-cc08808b60d9qa3","input":"What is Nike Olive's email address?","output":"nike_olive@me.com","task":"Task2","split":"retain"}
+{"id":"7cf59f15-0b35-48d4-9466-cc08808b60d9qa4","input":"What is the home address of Nike Olive?","output":"95 Forest Avenue, #2, Marysville, CA, 95901.","task":"Task2","split":"retain"}
+{"id":"da39c032-f03d-49ec-b263-ecd54e68f98dsc1","input":"Wilone Amaranth was born on June 1, 1983, and can be reached via phone at 363-463-6496. Her email address is [wilone\\_amaranth@me.com](mailto:wilone_amaranth@me.com),","output":"and she resides at 1515 Chandlee Avenue, Montgomery, AL, 36116. Her Social Security number is 900-21-5495.","task":"Task2","split":"retain"}
+{"id":"da39c032-f03d-49ec-b263-ecd54e68f98dqa0","input":"What is the birth date of Wilone Amaranth?","output":"1983-06-01","task":"Task2","split":"retain"}
+{"id":"da39c032-f03d-49ec-b263-ecd54e68f98dqa1","input":"What is Wilone Amaranth's Social Security Number?","output":"900215495","task":"Task2","split":"retain"}
+{"id":"da39c032-f03d-49ec-b263-ecd54e68f98dqa2","input":"What is Wilone Amaranth's phone number?","output":"3634636496","task":"Task2","split":"retain"}
+{"id":"da39c032-f03d-49ec-b263-ecd54e68f98dqa3","input":"What is Wilone Amaranth's email address?","output":"wilone_amaranth@me.com","task":"Task2","split":"retain"}
+{"id":"da39c032-f03d-49ec-b263-ecd54e68f98dqa4","input":"What is the home address of Wilone Amaranth?","output":"1515 Chandlee Avenue, Montgomery, AL, 36116.","task":"Task2","split":"retain"}
