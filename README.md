@@ -18,6 +18,7 @@ Each subtask includes both regurgitation tasks (verbatim reproduction) and knowl
 LLM_Unlearning_SEMEval2025/
 ├── DualTeacher_seq.ipynb           # Sequential dual-teacher implementation
 ├── DualTeacher_noseq.ipynb         # Mixed (non-sequential) dual-teacher implementation
+├── SKU.ipynb                       # Selective Knowledge Negation Unlearning implementation
 ├── evaluation_notebook.ipynb       # Evaluation analysis
 ├── data/                          # Dataset files (parquet format)
 └── README.md                     # This file
@@ -49,10 +50,21 @@ Our main approach leverages two contrasting teacher models:
 
 ### 2. Selective Knowledge Negation Unlearning (SKU)
 
-Alternative approach using direct token-level loss engineering:
-- Unlikelihood loss on answer spans to suppress memorization
-- Context stabilization to prevent catastrophic forgetting
-- L2 anchoring and entropy maximization for regularization
+Alternative approach using direct token-level loss engineering (`SKU.ipynb`):
+
+Our SKU implementation focuses on selective forgetting through sophisticated loss function design:
+
+- **Unlikelihood Loss**: Applied to specific answer spans to actively suppress memorization of sensitive content
+- **Context Stabilization**: Maintains model performance on retain data while forgetting target content
+- **L2 Anchoring**: Regularization technique to prevent drift from original model parameters
+- **Entropy Maximization**: Encourages uniform distributions over forgotten content to reduce confidence
+- **Token-Level Targeting**: Fine-grained control over which specific tokens should be forgotten
+
+#### Key Features:
+- **Gradient-Based Unlearning**: Direct optimization to reduce likelihood of sensitive outputs
+- **Selective Targeting**: Focuses unlearning only on problematic content spans
+- **Stability Preservation**: Maintains general language modeling capabilities through careful regularization
+- **Efficiency**: Single-pass training without requiring multiple teacher models
 
 ## 🔧 Technical Details
 
