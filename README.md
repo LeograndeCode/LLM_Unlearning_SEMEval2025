@@ -91,14 +91,6 @@ Following the SemEval-2025 protocol:
 - **Comprehensive Evaluation**: Official SemEval evaluation script integration
 - **Memory Optimized**: Gradient accumulation and efficient batch processing
 
-## 📖 Paper
-
-Our approach is documented in the ACL 2023 format paper located in:
-```
-_LLM_24_25___E4__Unlearning_sensitive_content_from_Large_Language_Models/acl2023.tex
-```
-
-The paper provides detailed methodology, experimental results, and analysis of both sequential and non-sequential dual-teacher implementations.
 
 ## 🤝 Contributors
 
@@ -113,5 +105,3 @@ This project is part of the SemEval-2025 shared task. Please refer to the compet
 ## 🔗 References
 
 - SemEval-2025 Task 4: Unlearning Sensitive Content from Large Language Models
-- HuggingFace Transformers and PEFT libraries
-- OLMo: Open Language Model by Allen Institute for AI
